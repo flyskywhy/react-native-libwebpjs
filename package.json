@@ -1,6 +1,6 @@
 {
-  "name": "@59naga/libwebp",
-  "version": "0.0.0",
+  "name": "react-native-libwebpjs",
+  "version": "1.0.0",
   "main": "libwebp.js",
-  "description": "tweaks libwebp-0.6.0.js+dumex.js(WebPDecoder/WebPRiffParser) to UMD"
+  "description": "A forked libwebpjs-v0.6.0 for React Native"
 }
